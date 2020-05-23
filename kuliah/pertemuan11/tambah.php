@@ -27,6 +27,7 @@ if (isset($_POST['tambah'])) {
 </head>
 <body>
   <h3>Form Tambah Data Mahasiswa</h3>
+  
   <form action="" method="POST">
   <ul>
   <li>
@@ -68,5 +69,6 @@ if (isset($_POST['tambah'])) {
 </li>
   </ul>
   </form>
+  <a href="index.php">Kembali ke daftar mahasiswa</a>
 </body>
 </html>
